@@ -3,7 +3,7 @@ chardet==3.0.4
 colorama==0.3.9
 Django==2.1
 django-cors-headers==2.4.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 httpie==0.9.9
 idna==2.7
 Pygments==2.2.0
